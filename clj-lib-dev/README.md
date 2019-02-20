@@ -1,6 +1,6 @@
 # clj-lib-dev
 
-A docker image for developing Clojure(Script) libraries
+This image is now deprecated and no longer maintained. Use [cljc-dev](../cljc-dev) or [cljs-dev](../cljs-dev) instead.
 
 ## Contents
 

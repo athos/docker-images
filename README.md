@@ -4,7 +4,7 @@ The repository for my personal docker images
 
 ## Images
 
-- **clj-lib-dev**: A docker image for developing Clojure(Script) libraries
+- ~~**clj-lib-dev**: A docker image for developing Clojure(Script) libraries~~ (no longer maintained)
 - cljc-dev: Docker image mainly for developing cljc libs
 - cljs-dev: Docker image for developing cljs libs
 
